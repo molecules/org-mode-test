@@ -1,2 +1,3 @@
-* TODO A
-* DONE B
+* DONE A
+* WORKING B
+* TODO C
