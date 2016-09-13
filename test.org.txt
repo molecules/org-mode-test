@@ -1,2 +1,5 @@
-* TODO A
-* DONE B
+* DONE A
+* ALLCAPS B
+* TODO C
+* todo D
+* lowercase E
